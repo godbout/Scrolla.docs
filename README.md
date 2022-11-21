@@ -24,3 +24,9 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), then you'll be 
 | last            | `G`
 | halfway up      | `control b` or `control u` 
 | halfway down    | `control f` or `control d`
+
+
+# Alternatives
+
+* [Vimac](https://github.com/dexterleng/vimac) (open source, free)
+* [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs) (closed source, free)
