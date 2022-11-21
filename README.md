@@ -12,7 +12,7 @@ Navigate through the different Scroll Areas of the frontmost window with:
 | last            | `command down`
 | halfway up      | `control up`
 | halfway down    | `control down`
-| exit            |  `escape` or `return` or `i` or _your global hotkey_
+| exit            |  `escape` or `return` or `command w` or `i` or _your global hotkey_
 
 If you use [kindaVim](https://github.com/godbout/kindaVim.docs), then you'll be able to navigate with Vim moves by entering Normal Mode and:
 
