@@ -29,14 +29,18 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), then you'll be 
 
 Scroll with:
 
-| scroll area     |  key 
-| :---:           | :---: 
-| down a bit      | `j`
-| up a bit        | `k`
-| down a lot      | `d` or `control d`
-| up a lot        | `u` or `control u`
-| to the bottom   | `G`
-| to the top      | `gg`
+| scroll area       |  key 
+| :---:             | :---: 
+| up a bit          | `k`
+| right a bit       | `l`
+| down a bit        | `j`
+| left a bit        | `h`
+| up a lot          | `u` or `control u`
+| down a lot        | `d` or `control d`
+| to the top        | `gg`
+| to the most right | `$`
+| to the bottom     | `G`
+| to the most left  | `0`
 
 # Alternatives
 
