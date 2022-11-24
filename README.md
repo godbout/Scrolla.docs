@@ -42,6 +42,15 @@ Scroll with:
 | to the bottom     | `G`
 | to the most left  | `0`
 
+# APIs
+
+Scrolla sends [Distributed Notifications](https://developer.apple.com/documentation/foundation/distributednotificationcenter) to macOS when it starts highlighing Areas, and when it backs off.
+You can listen to those Notifications with external tools like [BetterTouchTool](https://www.google.com/search?q=bettertouchtool) or [Hammerspoon](https://www.hammerspoon.org) and build your own custom workflows as a result of those Notifications.
+
+The Notifications Names are:
+* ScrollaDidEngage
+* ScrollaDidDisengage
+
 # Alternatives
 
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
