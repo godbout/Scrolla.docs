@@ -3,7 +3,6 @@
     <h1>Grab scrollable areas under macOS, and scroll using Vim moves.<h1>
 </div>
 
----
 # Manual
 
 ## Navigate
