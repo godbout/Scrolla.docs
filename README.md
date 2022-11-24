@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://github.com/godbout/Scrolla.docs/blob/master/assets/icon.png">
+    <h1>Grab scrollable areas under macOS, and scroll using Vim moves.<h1>
+</div>
+
+---
 # Manual
 
 ## Navigate
