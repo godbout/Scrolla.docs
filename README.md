@@ -13,7 +13,7 @@ Best marketing site for any of my apps so far: [Scrolla.app](https://scrolla.app
 
 # Why Scrolla
 
-I'm lazy af. Can't bother moving the hands away from the keyboard.
+I'm lazy af. Can't be bothered moving the hands away from the keyboard.
 
 # License
 
