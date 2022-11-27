@@ -11,6 +11,14 @@
 
 Best marketing site for any of my apps so far: [Scrolla.app](https://scrolla.app)
 
+# Why Scrolla
+
+I'm lazy af. Can't bother moving the hands away from the keyboard.
+
+# License
+
+No license. Scrolla is free. It's not open-source because it's sharing private packages with [kindaVim](https://github.com/godbout/kindaVim.docs) and [Wooshy](https://github.com/godbout/Wooshy.docs). But maybe one day.
+
 # Manual
 
 ## Navigate
