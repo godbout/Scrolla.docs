@@ -76,3 +76,8 @@ The Notifications Names are:
 
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
 * [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs) (closed source, free)
+
+# Roadmap
+
+* ~90% sure: build a proper "marketing" site
+* ~50% sure: add an option to select the Scroll Area where the cursor is currently is as the first choice
