@@ -79,5 +79,5 @@ The Notifications Names are:
 
 # Roadmap
 
-* ~90% sure: build a proper "marketing" site
-* ~50% sure: add an option to select the Scroll Area where the cursor is currently is as the first choice
+* ~90% will do: build a proper "marketing" site
+* ~40% will do: add an option to select the Scroll Area where the cursor is currently is as the first choice
