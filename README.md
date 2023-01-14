@@ -56,8 +56,8 @@ Scroll with:
 | right a bit       | `l`
 | down a bit        | `j`
 | left a bit        | `h`
-| up a lot          | `u` or `control u`
-| down a lot        | `d` or `control d`
+| up a lot          | `u` or `control u` or `b` or `control b`
+| down a lot        | `d` or `control d` or `f` or `control f`
 | to the top        | `gg`
 | to the most right | `$`
 | to the bottom     | `G`
