@@ -65,6 +65,8 @@ Scroll with:
 
 # APIs
 
+## Distributed Notifications
+
 Scrolla sends [Distributed Notifications](https://developer.apple.com/documentation/foundation/distributednotificationcenter) to macOS when it starts highlighing Areas, and when it backs off.
 You can listen to those Notifications with external tools like [BetterTouchTool](https://www.google.com/search?q=bettertouchtool) or [Hammerspoon](https://www.hammerspoon.org) and build your own custom workflows as a result of those Notifications.
 
@@ -72,12 +74,15 @@ The Notifications Names are:
 * ScrollaDidEngage
 * ScrollaDidDisengage
 
-# Alternatives
+## Custom URLs
+
+You can control Scrolla programmatically by calling the following Custom URLs:
+* start: `scrolla://start`
+* stop: `scrolla://stop`
+* toggle: `scrolla://toggle`
+
+# Alternatives to Scrolla
 
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
 * [Keyboard Scroller](https://github.com/dexterleng/KeyboardScroller.docs) (closed source, free)
-
-# Roadmap
-
-* ~90% will do: build a proper "marketing" site
-* ~40% will do: add an option to select the Scroll Area where the cursor is currently is as the first choice
+* [Homerow](https://www.homerow.app) (closed source, one time purchase)
