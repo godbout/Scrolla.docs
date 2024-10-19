@@ -4,7 +4,6 @@
 </div>
 
 ![awesome stuff happening in there again](https://raw.githubusercontent.com/godbout/Scrolla.docs/master/assets/gif.gif "hehe again")
-
 ---
 
 # The Site
@@ -21,9 +20,9 @@ No license. Scrolla is free. It's not open-source because it's sharing private p
 
 # Manual
 
-## Navigate
+## Auto Mode (default)
 
-Navigate through the different Scroll Areas of the frontmost window with:
+Navigate through the different detected Scroll Areas of the frontmost window with:
 
 | scroll area     | key | 
 | :---:           | :---:
@@ -45,6 +44,24 @@ If you use [kindaVim](https://github.com/godbout/kindaVim.docs), then you'll be 
 | last            | `G`
 | halfway up      | `control b` or `control u` 
 | halfway down    | `control f` or `control d`
+
+## Manual Mode
+
+For the web and some shit apps (Electron, Java) Scrolla cannot detect the Scroll Areas automatically. For those cases you can move the cursor manually with:
+
+| focused window  | key |
+| :---:           | :---:
+| top left        | `1`
+| top middle      | `2`
+| top right       | `3`
+| middle left     | `4`
+| middle middle   | `5`
+| middle right    | `6`
+| bottom left     | `7`
+| bottom middle   | `8`
+| bottom right    | `9`
+
+The placement is not mathematically precise. Instead, Scrolla moves the cursor to a location that is more likely to be within a Scroll Area.
 
 ## Scroll
 
