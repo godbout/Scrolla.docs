@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/godbout/Scrolla.docs/blob/master/assets/icon.png">
-    <h1>Grab scrollable areas under macOS, and scroll using Vim moves.</h1>
+    <h1>Intelligently grab Scrollable Areas under macOS, and scroll using your keyboard.</h1>
 </div>
 
 ![awesome stuff happening in there again](https://raw.githubusercontent.com/godbout/Scrolla.docs/master/assets/gif.gif "hehe again")
