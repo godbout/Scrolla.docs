@@ -98,6 +98,11 @@ You can control Scrolla programmatically by calling the following Custom URLs:
 * stop: `scrolla://stop`
 * toggle: `scrolla://toggle`
 
+# Roadmap
+
+* custom key mapping
+* stop stealing focus from current window
+
 # Alternatives to Scrolla
 
 * [Vimac](https://github.com/dexterleng/vimac) (open source, free)
