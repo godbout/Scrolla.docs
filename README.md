@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/godbout/Scrolla.docs/blob/master/assets/icon.png">
+    <img src="https://github.com/user-attachments/assets/446441c2-0df0-4813-8943-da87d9304ad3">
     <h1>Intelligently grab Scrollable Areas under macOS, and scroll using your keyboard.</h1>
 </div>
 
