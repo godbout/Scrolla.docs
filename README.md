@@ -26,8 +26,8 @@ Navigate through the different detected Scroll Areas of the frontmost window wit
 
 | scroll area     | key | 
 | :---:           | :---:
-| next            | `tab` or `down` or `control n`
-| previous        | `shift tab` or `up` or `control p`
+| next            | `tab` or `down` or `control n` or `J`
+| previous        | `shift tab` or `up` or `control p` or `K`
 | first           | `command up`
 | last            | `command down`
 | halfway up      | `control up`
@@ -73,8 +73,8 @@ Scroll with:
 | right a bit       | `l`
 | down a bit        | `j`
 | left a bit        | `h`
-| up a lot          | `u` or `control u` or `b` or `control b`
-| down a lot        | `d` or `control d` or `f` or `control f`
+| up a lot          | `u` or `control u` or `b` or `control b` or `shift space`
+| down a lot        | `d` or `control d` or `f` or `control f` or `space`
 | to the top        | `gg`
 | to the most right | `$`
 | to the bottom     | `G`
