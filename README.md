@@ -25,9 +25,7 @@ The Docs are now [here](https://docs.scrolla.app). still looking a bit funky sor
 
 # The Roadmap
 
-* allow for custom key mapping
 * improve [manual placement of cursor](https://docs.scrolla.app/usage/choose-your-target#manual-mode) for shit apps like Electron
-* stop stealing focus from current window
 
 # The Alternatives
 
